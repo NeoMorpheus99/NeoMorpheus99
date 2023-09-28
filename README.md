@@ -4,7 +4,7 @@
 <details>
   <summary>About Me</summary>
   <blockquote>
-  Hi, I am Norbu Tshering Lepcha and I come from a small country country called <strong>Bhutan</strong> nestled in the Himalayas.
+  Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bhutan</strong> nestled in the Himalayas.
 
   Currently a computer science student with an unquenchable thirst for knowledge and a boundless passion for technology. 
     
