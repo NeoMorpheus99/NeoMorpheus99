@@ -7,33 +7,39 @@
 Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bhutan</strong> nestled in the Himalayas.Currently a computer science student with an unquenchable thirst for knowledge and a boundless passion for technology. I'm an explorer at heart, constantly seeking ways to learn and keep growing. As I progress in my computer science journey, I aspire to contribute significantly to the tech industry, pioneering innovations that enhance lives and create a brighter digital future.
 
 <hr>
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Captain Neo</h3>
 <br/>
 <div align="center">
- 🔭 I’m currently working on **a marketplace**
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- </div>
+    
+🔭 I’m currently a Freelancer 
+    
+ 🌱 I’m currently learning **Docker, Supabase, AWS**'
+ 
+💬 Ask me about **Node.js, React, C, C++, Pyth... **
+
+
 
 <!--Social Links-->
  <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:norbutlepcha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/norbutsheringlepcha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+<!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> -->
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    Web-Dev: </br> <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,nodejs,express,flask,github,figma" /></br></br>
+    Programing language: </br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,python,java,mysql" /></br></br>
+    Others:</br>
+    <img src="https://skillicons.dev/icons?i=andriodstudio,eclipse,bash,flutter,blender,ai,notion,ps,sketchup,autocad" /><br>
 </div>
 
 <br/>
@@ -47,7 +53,6 @@ Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bh
 </div>
 
 <hr/>
+ 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMorpheus99)](https://github.com/anuraghazra/github-readme-stats)
+[![NeoMorpheus99's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoMorpheus99)](https://github.com/anuraghazra/github-readme-stats)
