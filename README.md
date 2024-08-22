@@ -11,11 +11,11 @@ Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bh
 <br/>
 <div align="center">
     
-🔭 I’m currently a Freelancer 
+🔭 I’m currently persuing CSE and a freelancer
     
- 🌱 I’m currently learning **Docker, Supabase, AWS**'
+ 🌱 I’m currently intereted in research works for ML/AI
  
-💬 Ask me about **Node.js, React, C, C++, Pyth... **
+💬 Ask me about **React, C, C++, Python**
 
 
 
@@ -29,10 +29,11 @@ Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bh
   </a>
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+  </a> 
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools
+</h2>
 <br/>
 <div align="center">
     Web-Dev: </br> <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,nodejs,express,flask,github,figma" /></br></br>
@@ -45,7 +46,7 @@ Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bh
 <br/>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NeoMorpheus99/NeoMorpheus99/output/github-contribution-grid-snake.svg" />
   
