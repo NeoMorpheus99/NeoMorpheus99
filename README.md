@@ -38,9 +38,9 @@ Check out my portfolio : <a href="https://neomorpheus99.github.io/portfolio/"> P
 </h2>
 <br/>
 <div align="center">
-    Web-Dev: </br> <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,nodejs,express,flask,github,figma" /></br></br>
+    Web-Dev: </br> <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,vscode,nodejs,express,github" /></br></br>
     Programing language: </br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,r,python,java,mysql" /></br></br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,python,mysql" /></br></br>
     Others:</br>
     <img src="https://skillicons.dev/icons?i=andriodstudio,eclipse,bash,flutter,blender,ai,notion,ps,sketchup,autocad" /><br>
 </div>
