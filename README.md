@@ -7,20 +7,6 @@
 Hi, I am Norbu Tshering Lepcha and I come from a small country called <strong>Bhutan</strong> nestled in the Himalayas.Currently a computer science student with an unquenchable thirst for knowledge and a boundless passion for technology. I'm an explorer at heart, constantly seeking ways to learn and keep growing. As I progress in my computer science journey, I aspire to contribute significantly to the tech industry, pioneering innovations that enhance lives and create a brighter digital future.
 
 
-
-<hr>
-<h3 align="center">Captain Neo</h3>
-<br/>
-<div align="center">
-    
-🔭 I’m currently persuing CSE and a freelancer
-    
- 🌱 I’m currently intereted in research works for ML/AI
- 
-💬 Ask me about **React, C, C++, Python**
-
-
-
 <!--Social Links-->
  <div align="center"> 
   <a href="mailto:norbutlepcha@gmail.com">
